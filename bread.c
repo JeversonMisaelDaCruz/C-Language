@@ -5,7 +5,7 @@ const float valorPao = 0.12;
 const float valorBroa = 1.50;
 float valorDia;
 float poupanca;
-
+ 
 int main() {
     printf("Informe a quantidade de pães!\n");
     scanf("%d", &paes);
