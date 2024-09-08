@@ -21,7 +21,7 @@ int main()
   {
     sal = nivel2 * aulas;
     printf("Seu salário e: %f", sal);
-  }else if (nivel == 3) // Corrigido: condição na mesma linha
+  }else if (nivel == 3) 
   {
     sal = nivel3 * aulas;
     printf("Seu salário é: %f\n", sal);
